@@ -70,11 +70,17 @@ public class AccountsPage extends PageObject {
                 return true;
           }catch(NoAlertPresentException ex){
                 return false;
+				//Thread.sleep"ll"
           }
     }
 	  
 	  @FindBy(xpath="//input[@aria-labelledby='VF_VIP_Label']")
 		WebElementFacade VIPCheckBox;
+		@FindBy(xpath="//input[@aria-labelledby='VF_VIP_Label']")
+		WebElementFacade VIPCheckBox12;
+		
+		@FindBy(xpath="//input[@aria-labelledby='VF_VIP_Label']")
+		WebElementFacade VIPCheckBox32;
 	
 	//@FindBy(xpath=".//*[@text='My Homepage']")
 	  @FindBy(xpath=".//div[contains(@style,'display: none;')][ @id='maskoverlay']")
