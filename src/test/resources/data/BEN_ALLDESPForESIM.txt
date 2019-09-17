@@ -1,0 +1,127 @@
+<ns0:BusinessEventNotification xmlns:ns0="http://xmlns.vodafone.co.uk/map/til/ITIntegration/ApplicationIntegration/Routing/BusinessEventNotification">
+    <ns0:BusinessKey>
+        <ns0:name>OrderID</ns0:name>
+        <ns0:value>SBL-1000000121384993</ns0:value>
+    </ns0:BusinessKey>
+    <ns0:BusinessKey>
+        <ns0:name>DGN</ns0:name>
+        <ns0:value>0</ns0:value>
+    </ns0:BusinessKey>
+    <ns0:eventType>FULFILMENTORDERNOTIFICATION</ns0:eventType>
+    <ns0:Status>ALLDESP</ns0:Status>
+    <ns0:Notification>
+        <ns0:FulfilmentOrder>
+            <ns1:EarliestShipDateTime xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">2019-03-21T00:00:00</ns1:EarliestShipDateTime>
+            <ns1:ModeOfTransportCode xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">MAI</ns1:ModeOfTransportCode>
+            <ns1:TypeCode xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">EQUIPMENT</ns1:TypeCode>
+            <ns1:FreightNote xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                <ns1:Status>
+                    <ns1:Code />
+                </ns1:Status>
+            </ns1:FreightNote>
+            <ns1:Status xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                <ns1:Code>ALLDESP</ns1:Code>
+            </ns1:Status>
+            <ns1:FulfillmentOrderLine xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">
+                <ns2:Identification xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                    <ns2:ApplicationObjectKey>
+                        <ns2:ID>1</ns2:ID>
+                    </ns2:ApplicationObjectKey>
+                </ns2:Identification>
+                <ns2:Status xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                    <ns2:Code />
+                    <ns2:Description>This line has been despatched</ns2:Description>
+                    <ns2:SubStatusCode>S02</ns2:SubStatusCode>
+                </ns2:Status>
+                <ns1:FulfillmentOrderSchedule>
+                    <ns1:EarliestShipDateTime>2019-03-21T00:00:00</ns1:EarliestShipDateTime>
+                    <ns1:ModeOfTransportCode>MAI</ns1:ModeOfTransportCode>
+                    <ns2:FreightNote xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:Status>
+                            <ns2:Code />
+                        </ns2:Status>
+                    </ns2:FreightNote>
+                    <ns2:ItemInstance xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:SerialNumber>234159530488013</ns2:SerialNumber>
+                        <ns2:Custom>
+                            <ns3:EID xmlns:ns3="http://xmlns.oracle.com/EnterpriseObjects/Core/Custom/Common/V2">97979797979797979797979797979701</ns3:EID>
+                        </ns2:Custom>
+                    </ns2:ItemInstance>
+                    <ns2:ShipmentSet xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:SetID>0</ns2:SetID>
+                    </ns2:ShipmentSet>
+                </ns1:FulfillmentOrderSchedule>
+                <ns1:Custom>
+                    <ns2:Failure xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:Status>
+                            <ns2:Code />
+                            <ns2:ReasonCode>S02</ns2:ReasonCode>
+                            <ns2:Description>This line has been despatched</ns2:Description>
+                        </ns2:Status>
+                    </ns2:Failure>
+                </ns1:Custom>
+            </ns1:FulfillmentOrderLine>
+            <ns1:FulfillmentOrderLine xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">
+                <ns2:Identification xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                    <ns2:ApplicationObjectKey>
+                        <ns2:ID>2</ns2:ID>
+                    </ns2:ApplicationObjectKey>
+                </ns2:Identification>
+                <ns2:Status xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                    <ns2:Code />
+                    <ns2:Description>This line has been despatched</ns2:Description>
+                    <ns2:SubStatusCode>S02</ns2:SubStatusCode>
+                </ns2:Status>
+                <ns1:FulfillmentOrderSchedule>
+                    <ns1:EarliestShipDateTime>2019-03-21T00:00:00</ns1:EarliestShipDateTime>
+                    <ns1:ModeOfTransportCode>MAI</ns1:ModeOfTransportCode>
+                    <ns2:FreightNote xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:Status>
+                            <ns2:Code />
+                        </ns2:Status>
+                    </ns2:FreightNote>
+                    <ns2:ItemInstance xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:Custom />
+                    </ns2:ItemInstance>
+                    <ns2:ShipmentSet xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:SetID>0</ns2:SetID>
+                    </ns2:ShipmentSet>
+                </ns1:FulfillmentOrderSchedule>
+                <ns1:Custom>
+                    <ns2:Failure xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns2:Status>
+                            <ns2:Code />
+                            <ns2:ReasonCode>S02</ns2:ReasonCode>
+                            <ns2:Description>This line has been despatched</ns2:Description>
+                        </ns2:Status>
+                    </ns2:Failure>
+                </ns1:Custom>
+            </ns1:FulfillmentOrderLine>
+            <ns1:FulfillmentOrderStatusHistory xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">
+                <ns2:StatusHistory xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                    <ns2:ToStatusCode>CONFIRM PICKING LIST</ns2:ToStatusCode>
+                    <ns2:EffectiveDateTime>2019-03-20T08:04:06Z</ns2:EffectiveDateTime>
+                </ns2:StatusHistory>
+            </ns1:FulfillmentOrderStatusHistory>
+            <ns1:FulfillmentOrderCustomerParty xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">
+                <ns2:CustomerPartyReference xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                    <ns2:CustomerPartyAccountTypeCode>CONS</ns2:CustomerPartyAccountTypeCode>
+                </ns2:CustomerPartyReference>
+            </ns1:FulfillmentOrderCustomerParty>
+            <ns1:Custom xmlns:ns1="http://xmlns.oracle.com/EnterpriseObjects/Core/EBO/FulfillmentOrder/V1">
+                <ns2:OrderID xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Custom/EBO/FulfillmentOrder/V1">
+                    <ns3:ApplicationObjectKey xmlns:ns3="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns3:ID>SBL-1000000121384993</ns3:ID>
+                    </ns3:ApplicationObjectKey>
+                </ns2:OrderID>
+                <ns2:Origin xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Custom/EBO/FulfillmentOrder/V1">SIEBEL</ns2:Origin>
+                <ns2:DespatchNumber xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Custom/EBO/FulfillmentOrder/V1">22141.0</ns2:DespatchNumber>
+                <ns2:ShipmentReceiptIdentification xmlns:ns2="http://xmlns.oracle.com/EnterpriseObjects/Core/Custom/EBO/FulfillmentOrder/V1">
+                    <ns3:ApplicationObjectKey xmlns:ns3="http://xmlns.oracle.com/EnterpriseObjects/Core/Common/V2">
+                        <ns3:ID />
+                    </ns3:ApplicationObjectKey>
+                </ns2:ShipmentReceiptIdentification>
+            </ns1:Custom>
+        </ns0:FulfilmentOrder>
+    </ns0:Notification>
+</ns0:BusinessEventNotification>

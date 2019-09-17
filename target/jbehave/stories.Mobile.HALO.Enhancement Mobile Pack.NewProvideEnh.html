@@ -1,0 +1,21 @@
+<div class="story">
+<h1>Story: Account Creation</h1>
+<div class="path">stories/Mobile/HALO/Enhancement Mobile Pack/NewProvideEnh.story</div>
+<div class="meta">
+<div class="keyword">Meta:</div>
+<div class="property">@EnhancementNewProvides </div>
+<div class="property">@tag tag:admin,tag:application,version:Release-02,version:Sprint-01.02</div>
+</div>
+<div class="scenario">
+<h2>Scenario: NP02Enh New Customer with Content Products</h2>
+<div class="step successful">Given Place screenshots in Folder 'FolderName'</div>
+<div class="step successful">Given Login with 'AGENT04' in 'Env'</div>
+<div class="step successful">When Create OUI account type 'Consumer'</div>
+<div class="step successful">And Update Promotion 'PostpaidPromotionSIMOfroEnhData' for 'AddSIMOwithVOICEandDATA' in OUI</div>
+<div class="step successful">And Create Personal Detail and Adress for 'Consumer'</div>
+<div class="step successful">And Perform Credit Vet OUI for 'CreditVettingNotRequired'</div>
+<div class="step successful">And Select Billing Profile 'NewPostpaidBillMe' and click on Save Button</div>
+<div class="step successful">When Perform Fulfilment Status With 'DeliveryToCustomer'</div>
+<div class="step successful">And Update MSISDN in OUI by performing 'UpdateMSISDN' and Click Next</div>
+<div class="step successful">And Order Details Capture in Order Summary page</div>
+<div class="step successful">When Perform payment with 'ONAccountNon-CardPopNO' and Confirm Order</div>

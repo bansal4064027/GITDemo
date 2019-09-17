@@ -1,0 +1,1426 @@
+
+--------------------------------------------------------
+NewConnection013
+
+Logged in ,Total Login Time 22
+--------------------------------------------------------
+NewConnection013
+
+Logged in ,Total Login Time 148
+--------------------------------------------------------
+NewConnection013
+
+Logged in ,Total Login Time 22
+Account tab clicked ,Total Time 4
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 8
+Order Created ,Total Time 5
+Product Added,Total Time 11
+New Button-Payment Clicked ,Total Time 6
+--------------------------------------------------------
+NewConnection013
+
+Logged in ,Total Login Time 24
+Account tab clicked ,Total Time 5
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 5
+New Billing Button Clicked ,Total Time 9
+Order Created ,Total Time 6
+Product Added,Total Time 9
+New Button-Payment Clicked ,Total Time 5
+Order Verified ,Total Time 17
+Order Submitted ,Total Time 5
+--------------------------------------------------------
+NewConnection014
+
+Logged in ,Total Login Time 142
+Account tab clicked ,Total Time 5
+New Account Clicked ,Total Time 2
+--------------------------------------------------------
+VoxiAcc03
+
+Logged in ,Total Login Time 13
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 5
+New Billing Button Clicked ,Total Time 9
+Order Created ,Total Time 7
+Product Added,Total Time 9
+Customise Clicked ,Total Time 5
+--------------------------------------------------------
+ContactManagementDPA07
+
+Logged in ,Total Login Time 10
+--------------------------------------------------------
+LFL01
+
+--------------------------------------------------------
+NP03Enh
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+AccCreation-001
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+T073
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 4
+Order Created ,Total Time 6
+Product Added,Total Time 12
+Order Verified ,Total Time 5
+--------------------------------------------------------
+FUTMobile33
+
+Logged in ,Total Login Time 2
+--------------------------------------------------------
+ServiceHierarchyEnh010
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+PriorityJourneys002
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 123
+Order Created ,Total Time 4
+Product Added,Total Time 9
+--------------------------------------------------------
+PriorityJourneys002
+
+Logged in ,Total Login Time 122
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 123
+Order Created ,Total Time 4
+Product Added,Total Time 9
+--------------------------------------------------------
+PriorityJourneys002
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 123
+Order Created ,Total Time 3
+Product Added,Total Time 10
+--------------------------------------------------------
+PriorityJourneys002
+
+Logged in ,Total Login Time 124
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 124
+Order Created ,Total Time 4
+--------------------------------------------------------
+PriorityJourneys002
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 124
+Order Created ,Total Time 4
+Product Added,Total Time 10
+Order Verified ,Total Time 9
+Order Verified ,Total Time 14
+--------------------------------------------------------
+PriorityJourneys002
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 123
+Order Created ,Total Time 5
+Product Added,Total Time 98
+Order Verified ,Total Time 8
+Order Verified ,Total Time 13
+Order Submitted ,Total Time 3
+--------------------------------------------------------
+PriorityJourneys002
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 124
+Order Created ,Total Time 3
+Product Added,Total Time 10
+--------------------------------------------------------
+NP01
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+--------------------------------------------------------
+NP01
+
+Logged in ,Total Login Time 5
+New Account Clicked ,Total Time 0
+--------------------------------------------------------
+OM139
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 3
+Order Created ,Total Time 5
+Product Added,Total Time 9
+--------------------------------------------------------
+OM139
+
+Logged in ,Total Login Time 5
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 7
+New Billing Button Clicked ,Total Time 3
+Order Created ,Total Time 6
+Product Added,Total Time 9
+--------------------------------------------------------
+OM01
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 3
+Order Created ,Total Time 4
+Product Added,Total Time 110
+Customise Clicked ,Total Time 6
+Order Verified ,Total Time 9
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 4
+Account Query Clicked ,Total Time 0
+Promotion Upgrade Applet visible,Total Time 23
+Target promotion selected,Total Time 26
+Add Button clicked,Total Time 4
+New Button-Payment Clicked ,Total Time 7
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 5
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 10
+New Billing Button Clicked ,Total Time 4
+Order Created ,Total Time 13
+Product Added,Total Time 262
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 6
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 8
+New Billing Button Clicked ,Total Time 4
+Order Created ,Total Time 7
+Product Added,Total Time 23
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 8
+--------------------------------------------------------
+BillHistoryNonMigrated09
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillHistoryNonMigrated09
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillHistoryNonMigrated09
+
+Logged in ,Total Login Time 3
+Logged in ,Total Login Time 59
+--------------------------------------------------------
+BillHistoryNonMigrated09
+
+Logged in ,Total Login Time 3
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+FixedLineDVT28
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 6
+--------------------------------------------------------
+FixedLineDVT28
+
+Logged in ,Total Login Time 6
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 7
+--------------------------------------------------------
+BillOverviewFL10
+
+--------------------------------------------------------
+BillOverviewFL10
+
+--------------------------------------------------------
+BillOverviewNonMigrated10
+
+--------------------------------------------------------
+BillOverviewNonMigrated10
+
+--------------------------------------------------------
+BillOverviewNonMigrated10
+
+--------------------------------------------------------
+BillOverviewNonMigrated10
+
+--------------------------------------------------------
+FLNEW034
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 6
+New Billing Button Clicked ,Total Time 4
+--------------------------------------------------------
+ChangeCurrentServicePart1_05
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+ChangeCurrentServicePart1_05
+
+Logged in ,Total Login Time 4
+Add Button clicked,Total Time 30
+--------------------------------------------------------
+ChangeCurrentServicePart1_05
+
+Logged in ,Total Login Time 3
+Add Button clicked,Total Time 11
+--------------------------------------------------------
+ChangeCurrentServicePart1_05
+
+Logged in ,Total Login Time 4
+Add Button clicked,Total Time 3
+--------------------------------------------------------
+Ship03Enh
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart1_17
+
+Logged in ,Total Login Time 29
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 18
+New Account Clicked ,Total Time 0
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 84
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 4
+Order Created ,Total Time 4
+Product Added,Total Time 9
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 5
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 2
+New Billing Button Clicked ,Total Time 5
+Order Created ,Total Time 5
+Product Added,Total Time 14
+Order Verified ,Total Time 0
+Order Verified ,Total Time 5
+Order Submitted ,Total Time 5
+--------------------------------------------------------
+FUTMobile22
+
+--------------------------------------------------------
+ChangeCurrentServicePart2_16
+
+Logged in ,Total Login Time 14
+--------------------------------------------------------
+ChangeCurrentServicePart2_16
+
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+ChangeCurrentServicePart2_16
+
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+FLChangeCurrentServicePart2_04
+
+Logged in ,Total Login Time 8
+Account Query Clicked ,Total Time 1
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 8
+--------------------------------------------------------
+SUM01
+
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 7
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 64
+--------------------------------------------------------
+SUM01
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 67
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService36
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+MobileCancelService35
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobileCancelService35
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+MobileCancelService35
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+MobileCancelService35
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+MobileCancelService35
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+MobileCancelService35
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+MobileCancelService35
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BillingProfile&Details11
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillingProfile&Details31
+
+Logged in ,Total Login Time 139
+--------------------------------------------------------
+BillingProfile&Details29
+
+Logged in ,Total Login Time 43
+--------------------------------------------------------
+OM80
+
+Logged in ,Total Login Time 6
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 10
+New Billing Button Clicked ,Total Time 5
+Order Created ,Total Time 6
+Product Added,Total Time 7
+Customise Clicked ,Total Time 5
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 4
+Account Query Clicked ,Total Time 1
+Account Query Clicked ,Total Time 1
+New Button-Payment Clicked ,Total Time 4
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 4
+Account Query Clicked ,Total Time 0
+Order Verified ,Total Time 0
+Order Verified ,Total Time 11
+Order Submitted ,Total Time 3
+--------------------------------------------------------
+MobileCancelService01
+
+Logged in ,Total Login Time 51
+--------------------------------------------------------
+MobileCancelService05
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+MobileCancelService03
+
+Logged in ,Total Login Time 6
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BillingProfile&Details34
+
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 71
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 11
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 103
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 11
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 9
+--------------------------------------------------------
+PreDVTEhn05
+
+--------------------------------------------------------
+PreDVTEhn05
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+FLNP004
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 4
+--------------------------------------------------------
+FLMODNEW032
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 13
+--------------------------------------------------------
+ServiceHierarchyEnh016
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ServiceHierarchyEnh016
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+ServiceHierarchyEnh016
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+ServiceHierarchyEnh017
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+ChangeCurrentServicePart1_21
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+PreDVTPack01
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+--------------------------------------------------------
+PreDVTPack03
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 2
+New Billing Button Clicked ,Total Time 3
+Order Created ,Total Time 4
+Product Added,Total Time 7
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 5
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 5
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 5
+--------------------------------------------------------
+PreDVTPack05
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 10
+Order Verified ,Total Time 0
+Order Verified ,Total Time 12
+Order Submitted ,Total Time 7
+--------------------------------------------------------
+PreDVTPack07
+
+Logged in ,Total Login Time 12
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 4
+--------------------------------------------------------
+PreDVTPack10
+
+Logged in ,Total Login Time 10
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+PreDVTPack13
+
+Logged in ,Total Login Time 6
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 6
+Order Created ,Total Time 5
+Product Added,Total Time 7
+New Button-Payment Clicked ,Total Time 4
+Order Verified ,Total Time 0
+Order Verified ,Total Time 6
+Order Submitted ,Total Time 7
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 4
+New Button-Payment Clicked ,Total Time 4
+Order Verified ,Total Time 0
+Order Verified ,Total Time 2
+Order Submitted ,Total Time 4
+--------------------------------------------------------
+PreDVTPack15
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 4
+--------------------------------------------------------
+PreDVTPack18
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 4
+Order Created ,Total Time 4
+Product Added,Total Time 6
+New Button-Payment Clicked ,Total Time 6
+--------------------------------------------------------
+PreDVTPack20
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 2
+New Billing Button Clicked ,Total Time 4
+Order Created ,Total Time 7
+Product Added,Total Time 6
+Customise Clicked ,Total Time 4
+Order Verified ,Total Time 0
+Order Verified ,Total Time 2
+Order Submitted ,Total Time 4
+--------------------------------------------------------
+PreDVTPack22
+
+Logged in ,Total Login Time 151
+--------------------------------------------------------
+PreDVTPack24
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+--------------------------------------------------------
+DVT1Pack01
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 3
+Order Created ,Total Time 5
+Product Added,Total Time 7
+Order Verified ,Total Time 0
+Order Verified ,Total Time 2
+Order Submitted ,Total Time 4
+--------------------------------------------------------
+DVT1Pack05_Agent
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 2
+New Billing Button Clicked ,Total Time 3
+Order Created ,Total Time 5
+Product Added,Total Time 9
+Customise Clicked ,Total Time 5
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 4
+--------------------------------------------------------
+DVT1Pack12_Agent
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+DVT1Pack14_Agent
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+DVT1Pack17_Agent
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 1
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 6
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 5
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 6
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 2
+New Billing Button Clicked ,Total Time 5
+Order Created ,Total Time 7
+Product Added,Total Time 7
+New Button-Payment Clicked ,Total Time 7
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 3
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 1
+New Billing Button Clicked ,Total Time 5
+Order Created ,Total Time 5
+Product Added,Total Time 5
+New Button-Payment Clicked ,Total Time 7
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 5
+New Account Clicked ,Total Time 2
+Account Saved ,Total Time 3
+New Billing Button Clicked ,Total Time 4
+Order Created ,Total Time 9
+Product Added,Total Time 7
+New Button-Payment Clicked ,Total Time 7
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 1
+Account Saved ,Total Time 1
+New Billing Button Clicked ,Total Time 5
+Order Created ,Total Time 6
+Product Added,Total Time 7
+New Button-Payment Clicked ,Total Time 8
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 4
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 1
+New Billing Button Clicked ,Total Time 6
+Order Created ,Total Time 5
+Product Added,Total Time 5
+New Button-Payment Clicked ,Total Time 6
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 6
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 2
+New Billing Button Clicked ,Total Time 7
+Order Created ,Total Time 5
+Product Added,Total Time 6
+New Button-Payment Clicked ,Total Time 12
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 7
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 2
+New Billing Button Clicked ,Total Time 8
+Order Created ,Total Time 9
+Product Added,Total Time 9
+New Button-Payment Clicked ,Total Time 7
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 5
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 1
+New Billing Button Clicked ,Total Time 6
+Order Created ,Total Time 6
+Product Added,Total Time 5
+New Button-Payment Clicked ,Total Time 9
+Order Verified ,Total Time 0
+--------------------------------------------------------
+NP03
+
+Logged in ,Total Login Time 8
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 1
+New Billing Button Clicked ,Total Time 5
+Order Created ,Total Time 5
+Product Added,Total Time 6
+New Button-Payment Clicked ,Total Time 6
+Order Verified ,Total Time 0
+--------------------------------------------------------
+MultiDeviceRetrofit001
+
+Logged in ,Total Login Time 10
+--------------------------------------------------------
+DVA030
+
+--------------------------------------------------------
+DVA030
+
+--------------------------------------------------------
+DVA030
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+Order Created ,Total Time 105
+Product Added,Total Time 4
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+--------------------------------------------------------
+DVA030
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 1
+Order Created ,Total Time 153
+Product Added,Total Time 4
+Order Verified ,Total Time 0
+Order Verified ,Total Time 3
+Order Submitted ,Total Time 9
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+DVA030
+
+--------------------------------------------------------
+DVA030
+
+Logged in ,Total Login Time 7
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+DVA030
+
+Logged in ,Total Login Time 151
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+ChangeCurrentServicePart1_28
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 15
+New Account Clicked ,Total Time 2
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 9
+Order Created ,Total Time 9
+Product Added,Total Time 9
+Order Verified ,Total Time 1
+Order Verified ,Total Time 5
+Order Submitted ,Total Time 8
+--------------------------------------------------------
+NP04
+
+Logged in ,Total Login Time 82
+New Account Clicked ,Total Time 0
+Account Saved ,Total Time 4
+New Billing Button Clicked ,Total Time 7
+Order Created ,Total Time 17
+Product Added,Total Time 12
+Order Verified ,Total Time 0
+Order Verified ,Total Time 14
+Order Submitted ,Total Time 7
+--------------------------------------------------------
+ENUMSWAP03_PRE
+
+Logged in ,Total Login Time 5
+New Account Clicked ,Total Time 0
+--------------------------------------------------------
+ChangeCurrentServicePart2_01
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+ChangeCurrentServicePart2_01
+
+Logged in ,Total Login Time 154
+--------------------------------------------------------
+IDV01
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+IDV01
+
+Logged in ,Total Login Time 12
+--------------------------------------------------------
+NLFL03
+
+--------------------------------------------------------
+NLFL03
+
+--------------------------------------------------------
+BlackTariff_20
+
+Logged in ,Total Login Time 54
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_21
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_20
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_21
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_20
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_21
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_22
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_23
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+BlackTariff_20
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BlackTariff_22
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BlackTariff_23
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BlackTariff_21
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 122
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 122
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 152
+Account Query Clicked ,Total Time 1
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 90
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 130
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 152
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 8
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 51
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 21
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+NLFL04
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+DVT2Pack07
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 151
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+EnhNLFL09
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+IDV03
+
+Logged in ,Total Login Time 8
+--------------------------------------------------------
+BillHistoryNonMigrated01
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 6
+--------------------------------------------------------
+BillHistoryNonMigrated01
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 5
+--------------------------------------------------------
+BillHistoryNonMigrated02
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BillHistory(Non Migrated)03
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BillHistory(Non Migrated)04
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillHistory(Non Migrated)05
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BillHistoryNonMigrated06
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BillHistoryNonMigrated07
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillHistoryNonMigrated08
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+BillHistoryNonMigrated09
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillHistoryNonMigrated10
+
+Logged in ,Total Login Time 14
+--------------------------------------------------------
+ChangeCurrentServicePart2_13
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+ChangeCurrentServicePart2_04
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart2_10
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+ChangeCurrentServicePart2_15
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart2_12
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillHistoryNonMigrated11
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+BillHistoryNonMigrated12
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart2_05
+
+Logged in ,Total Login Time 118
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 6
+--------------------------------------------------------
+ChangeCurrentServicePart2_06
+
+Logged in ,Total Login Time 8
+--------------------------------------------------------
+ChangeCurrentServicePart2_07
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+FLChangeCurrentServicePart2_04
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+FLChangeCurrentServicePart2_04
+
+Logged in ,Total Login Time 5
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+FLChangeCurrentServicePart2_05
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+FLChangeCurrentServicePart2_06
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+FLChangeCurrentServicePart2_03
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart2_17
+
+Logged in ,Total Login Time 150
+--------------------------------------------------------
+ChangeCurrentServicePart2_18
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart2_20
+
+Logged in ,Total Login Time 151
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart2_22
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+ChangeCurrentServicePart2_23
+
+Logged in ,Total Login Time 8
+--------------------------------------------------------
+ChangeCurrentServicePart2_24
+
+Logged in ,Total Login Time 9
+--------------------------------------------------------
+FLChangeCurrentServicePart2_04
+
+--------------------------------------------------------
+FLChangeCurrentServicePart2_04
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+FLChangeCurrentServicePart2_05
+
+Logged in ,Total Login Time 100
+--------------------------------------------------------
+FLChangeCurrentServicePart2_06
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+FLChangeCurrentServicePart2_03
+
+Logged in ,Total Login Time 6
+--------------------------------------------------------
+ChangeCurrentServicePart2_17
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+ChangeCurrentServicePart2_18
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+ChangeCurrentServicePart2_20
+
+Logged in ,Total Login Time 4
+Account Query Clicked ,Total Time 0
+Modify Clicked Modify ,Total Time 4
+--------------------------------------------------------
+ChangeCurrentServicePart2_22
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+ChangeCurrentServicePart2_23
+
+Logged in ,Total Login Time 4
+--------------------------------------------------------
+ChangeCurrentServicePart2_24
+
+Logged in ,Total Login Time 3
+--------------------------------------------------------
+MobRegOldcustomer06
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+MobRegOldcustomer06
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+MobRegOldcustomer06
+
+Logged in ,Total Login Time 3
+Account Query Clicked ,Total Time 0
+--------------------------------------------------------
+NP02Enh
+
+Logged in ,Total Login Time 10
+--------------------------------------------------------
+NP02Enh
+
+Logged in ,Total Login Time 5
+--------------------------------------------------------
+NP02Enh
+
+Logged in ,Total Login Time 7
+--------------------------------------------------------
+NP02Enh
+
+Logged in ,Total Login Time 12
