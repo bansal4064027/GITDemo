@@ -64,10 +64,7 @@ public class AccountsPageEnh extends PageObject {
 			return false;
 		}
 	}
-	@FindBy(xpath=".//div[contains(@style,'display: none;')][ @id='maskoverlay']")
-	WebElement ClockObj;
-	@FindBy(xpath=".//*[@data-tabindex='tabScreen0']")
-	WebElementFacade Homepage;
+	///traun comment
 	//@FindBy(xpath=".//*[@title='Accounts']")
 	@FindBy(xpath=".//*[@data-tabindex='tabScreen1']")
 	WebElementFacade AccountsTab;
